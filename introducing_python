@@ -1,0 +1,5 @@
+(RS) K18, ssk, k1, turn work.
+(WS) S1 1 pwise, p5, p2tog, p1, turn.
+
+for countdown in 5, 4, 3, 2, 1, "hey!":
+  print(countdown)
